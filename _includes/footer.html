@@ -1,0 +1,46 @@
+
+<footer class="footer py-4 js-page-footer">
+  <div class="main">
+
+    {%- assign _site_author = site.author -%}
+    {%- if _site_author.type == 'organization' -%}
+      {%- assign _site_author_itemtype = 'http://schema.org/Organization' -%}
+    {%- else -%}
+      {%- assign _site_author_itemtype = 'http://schema.org/Person' -%}
+    {%- endif -%}
+
+    <div itemscope itemtype="{{ _site_author_itemtype }}">
+      <meta itemprop="name" content="{{ _site_author.name }}">
+      {%- assign _site_author_url = _site_author.url | default: '/'-%}
+      {%- include snippets/get-nav-url.html path=_site_author_url -%}
+      {%- assign _site_author_url = __return -%}
+      <meta itemprop="url" content="{{ _site_author_url }}">
+      {%- if _site_author.bio -%}
+        <meta itemprop="description" content="{{ _site_author.bio }}">
+      {%- endif -%}
+    </div>
+    {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
+    {%- assign _locale_copyright_dates = __return -%}
+    <div class="site-info mt-2">
+      <div>
+        <a href="mailto:mans+portfolio@fritiofson.net">
+            <p class="button button--rounded button--outline-success">CONTACT ME</p>
+        </a>
+        <br>
+        <i>mans(a)fritiofson.net</i>
+        <br>
+        <br>
+        <a href="https://discord.com/users/201385847595991040">Discord</a>
+        <br>
+        <a href="https://github.com/cu1us">GitHub</a>
+        <br>
+        <a href="https://cu1us.itch.io">itch.io</a>
+        <br>
+        <br>
+        © Måns Fritiofsson, 2025
+        <br>
+        I made this site using <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a>.
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,143 @@
+.beans {
+  color: red;
+  background-color: #550055;
+  border: 10px solid #005555;
+  border-radius: 10px;
+  border-top: 3px dotted #bbb;
+}
+
+article {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.success {
+    padding: map-get($spacers, 2) map-get($spacers, 3);
+    background-color: rgba($green, .1);
+    border: 1px solid $green;
+    border-radius: map-get($base, border-radius);
+}
+.info {
+    padding: map-get($spacers, 2) map-get($spacers, 3);
+    background-color: rgba($blue, .1);
+    border: 1px solid $blue;
+    border-radius: map-get($base, border-radius);
+}
+.warning {
+    padding: map-get($spacers, 2) map-get($spacers, 3);
+    background-color: rgba($yellow, .1);
+    border: 1px solid $yellow;
+    border-radius: map-get($base, border-radius);
+}
+.error {
+    padding: map-get($spacers, 2) map-get($spacers, 3);
+    background-color: rgba($red, .1);
+    border: 1px solid $red;
+    border-radius: map-get($base, border-radius);
+}
+
+
+.successtag {
+    padding: map-get($spacers, 1) map-get($spacers, 2);
+    border-radius: map-get($base, border-radius);
+    color: $text-color-function;
+    background-color: $green;
+}
+.infotag {
+    padding: map-get($spacers, 1) map-get($spacers, 2);
+    border-radius: map-get($base, border-radius);
+    color: $text-color-function;
+    background-color: $blue;
+}
+.warningtag {
+    padding: map-get($spacers, 1) map-get($spacers, 2);
+    border-radius: map-get($base, border-radius);
+    color: $text-color-function;
+    background-color: $yellow;
+}
+.errortag {
+    padding: map-get($spacers, 1) map-get($spacers, 2);
+    border-radius: map-get($base, border-radius);
+    color: $text-color-function;
+    background-color: $red;
+}
+
+
+img.shadow, .shadow > img {
+    @include box-shadow();
+}
+img.border, .border > img {
+    border: 1px solid $border-color-l;
+}
+img.rounded, .rounded > img {
+    border-radius: map-get($base, border-radius);
+}
+img.circle, .circle > img {
+    border-radius: 50%;
+}
+
+
+.gamethumbnail {
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px #111;
+    width: 100%;
+    margin-top: 0px;
+    transition: all 350ms;
+    transition-timing-function: ease-out;
+    will-change: box-shadow, border-radius;
+}
+.gamethumbnail:hover {
+    box-shadow: 0px 0px 20px #a7f;
+    border-radius: 20px;
+}
+.gameinfo {
+    border: 2px dashed #555;
+    border-radius: 10px;
+    padding: map-get($spacers, 1) map-get($spacers, 2)
+}
+
+
+.gamelinkbutton {
+    margin: 5px;
+}
+.gamelinkbuttonlogo {
+    height: 18px;
+    margin: 2px;
+}
+.awardbadge {
+    will-change: transform;
+}
+.awardbadge:hover {
+    transform: scale(2, 2);
+}
+
+.center {
+    text-align: center;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.top {
+    text-align: top;
+}
+.bottom {
+    text-align: bottom;
+}
+.margin {
+    margin: 5px;
+}
+
+.imagedesc {
+    color: #666;
+    text-align: top, center;
+    font-size: 16;
+}
+
+.trailer {
+    text-align: center;
+    size: 50% 50%
+}
