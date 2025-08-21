@@ -3,11 +3,24 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Projects
+articles:
+    hello: /
 ---
 
+<br>
 
-# My projects
-Lots of text bacon ipsum dolor amet landjaeger drumstick hamburger chuck t-bone turkey doner spare ribs kevin. Capicola pig shoulder tenderloin ham hock rump, cow tail ground round flank kevin. Pork ground round turkey, tri-tip swine chicken pancetta. Landjaeger rump short loin ham, tri-tip doner boudin swine pastrami tail turducken. Burgdoggen jowl beef capicola turkey.
+# Måns Fritiofsson's Portfolio
+{:.center}
+
+#### Welcome to my portfolio page!
+{:.center}
+
+Here you can check out some of the projects I've worked on.
+{:.center}
+
+If you want to read about me, head to the [About me](/about/) page. If you want to contact me, I'm available by [email](mailto:mans+portfolio@fritiofson.net) or on [Discord](https://discord.com/users/201385847595991040).
+{:.center}
 
 <br><br>
 # Campanion [<img src="/assets/images/logos/itch/itchio-logo-white.svg" class="gamelinkbuttonlogo">](https://yrgo-game-creator.itch.io/campanion){:target="_blank" title="Download Campanion on itch.io" .button.button--outline-error.button--pill.button--l.gamelinkbutton} [<img src="/assets/images/logos/youtube-logo.svg" class="gamelinkbuttonlogo">](https://youtu.be/YBdd-pXmyXg){:target="_blank" title="Trailer (YouTube)" .button.button--outline-error.button--pill.button--l.gamelinkbutton} [<img src="/assets/images/logos/finalist-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Finalist at The Rookie Awards 2025 Game of The Year (Console & PC)" .right.margin}[<img src="/assets/images/logos/draft-selection-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Draft Selection at The Rookie Awards 2025 Game of The Year (Console & PC)" .right.margin}
@@ -77,5 +90,120 @@ During the project I learned so much about Unity and C#, and I am incredibly sat
 
 <br>
 <hr>
+<br>
+<br>
+<br>
+<br>
 
+# Smaller projects / Game jams
+<hr>
 
+<div class="cardgrid">
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/misc/witchwaytowellness.png"/>
+  </div>
+  <div class="card__content">
+    <div class="card__header">
+      <h4><a href="https://cu1us.itch.io/witch-way-to-wellness">Witch Way to Wellness</a></h4>
+    </div>
+    <p>Made during Global Game Jam 2025. Play as a psychiatrist witch that must figure out the needs of her clients and choose the correct potion ingredients accordingly.</p>
+    <p class="gameinfo left">
+    <b>Duration:</b> 48 hours
+    <br>
+    <b>Team:</b> 1 programmer (me), 1 musician, 2 artists
+    </p>
+  </div>
+</div>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/misc/tightropetrouble.png"/>
+  </div>
+  <div class="card__content">
+    <div class="card__header">
+      <h4><a href="https://punpadour.itch.io/tightrope-trouble">Tightrope Trouble</a></h4>
+    </div>
+    <p>Made during Global Game Jam 2024. An asymmetric two-player versus minigame where one of you must stop the other from traversing a slackline by bouncing a huge spike ball toward them.</p>
+    <p class="gameinfo left">
+    <b>Duration:</b> 48 hours
+    <br>
+    <b>Team:</b> 1 programmer (me), 1 musician, 2 artists
+    </p>
+  </div>
+</div>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/misc/rattitude.png"/>
+  </div>
+  <div class="card__content">
+    <div class="card__header">
+      <h4><a href="https://lynche.itch.io/rattitude">Rattitude</a></h4>
+    </div>
+    <p>Winner of Best Graphics and Best Sound during GBG Spooky Game Jam 2024. An old-school dungeon crawler where you connect to a rat with bluetooth and throw it at corrupted fish scientists.</p>
+    <p class="gameinfo left">
+    <b>Duration:</b> 48 hours
+    <br>
+    <b>Team:</b> 2 programmers, 3 artists
+    </p>
+  </div>
+</div>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/misc/bugstomper.png"/>
+  </div>
+  <div class="card__content">
+    <div class="card__header">
+      <h4><a href="https://cu1us.itch.io/bug-stomper">Bug Stomper</a></h4>
+    </div>
+    <p>Made during a 5-day game jam at Yrgo. A charming PVZ-like arcade game where you stop incoming bugs from destroying the forest by flipping them on their heads and throwing mushrooms at them.</p>
+    <p class="gameinfo left">
+    <b>Duration:</b> 5 days
+    <br>
+    <b>Team:</b> 2 programmers, 3 artists
+    </p>
+  </div>
+</div>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/misc/chainmail.png"/>
+  </div>
+  <div class="card__content">
+    <div class="card__header">
+      <h4><a href="https://yrgo-game-creator.itch.io/chain-mail">Chain Mail</a></h4>
+    </div>
+    <p>Made during a 7-week project at Yrgo. A top-down combat game where you must swing your mailbag around to move across the room and knock down enemies.</p>
+    <p class="gameinfo left">
+    <b>Duration:</b> 7 weeks
+    <br>
+    <b>Team:</b> 3 programmers, 3 artists
+    </p>
+  </div>
+</div>
+<div class="card">
+  <div class="card__image">
+    <img class="image" src="/assets/images/misc/monktonkerson.png"/>
+  </div>
+  <div class="card__content">
+    <div class="card__header">
+      <h4><a href="https://cu1us.itch.io/exertion-of-paterfamilias">Monk Tonkerson</a></h4>
+    </div>
+    <p>A visual novel/platformer inspired by the original Donkey Kong (1981) where you follow the tragic tale of a monkey that must save his child from an evil organization of bears.</p>
+    <p class="gameinfo left">
+    <b>Duration:</b> ~1 week
+    <br>
+    <b>Team:</b> 1 programmer, 2 artists
+    </p>
+  </div>
+</div>
+</div>
+
+<br>
+
+<h4>More projects can be found on my itch page:</h4>
+{:.center}
+
+[<img src="/assets/images/logos/itch/itchio-logo-white.svg" class="gamelinkbuttonlogo">](https://cu1us.itch.io/){:.button.button--outline-error.button--pill.button--l}
+{:.center}
+
+<br>
+<hr>

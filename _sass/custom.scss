@@ -127,6 +127,28 @@ img.circle, .circle > img {
 .bottom {
     text-align: bottom;
 }
+
+.fcenter {
+    float: center;
+}
+.fleft {
+    float: left;
+}
+.fright {
+    float: right;
+}
+.ftop {
+    float: top;
+}
+.fbottom {
+    float: bottom;
+}
+
+.cardgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr
+}
+
 .margin {
     margin: 5px;
 }
@@ -146,4 +168,8 @@ img.circle, .circle > img {
     margin-left: 30%;
     margin-right: 30%;
     text-align: center;
+}
+
+.cardgrid {
+    place-items: center;
 }
