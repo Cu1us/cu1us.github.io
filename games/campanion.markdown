@@ -11,6 +11,7 @@ article_header:
     background_image:
         gradient: 'linear-gradient(135deg, #a974, #110a)'
         src: /assets/images/campanion/preview_banner.gif
+show_title: true
 permalink: /campanion/
 ---
 <link rel="stylesheet" href="/assets/css/index.css">
@@ -171,7 +172,7 @@ I achieved the result above through using 3 different shaders - one on the to-be
 <p class="imagedesc"><i>Invisibility shader. Note how the statue casts a shadow on the floor only inside the photo.</i></p>
 </div>
 
-### Other work
+### Other screenshots of my work
 
 <div class="left">
 <img src="/assets/images/campanion/burnshader.png" title="Burning painting/paper shader that is displayed when a laser pointer burns down a painting" class="image image-xl">

@@ -46,7 +46,7 @@ This was an 8-week group project near the end of my first year at Yrgo, where I 
 # Anchor's Lament
 <hr>
 
-[<img src="/assets/images/campanion/thumbnail.png" class="gamethumbnail">](/anchorslament)
+[<img src="/assets/images/anchorslament/thumbnail.png" class="gamethumbnail">](/anchorslament)
 
 <p class="gameinfo">
 <b>Company:</b> Imperial Playgrounds
@@ -63,11 +63,11 @@ This was an 8-week group project near the end of my first year at Yrgo, where I 
 </p>
 
 <br>
-*Anchor's lament is an ocean-themed autobattler for Mobile/PC where you build teams of fish with synergizing abilities to fight opponents from across the world in rhythm-based combat.*
+*Anchor's lament is an ocean-themed autobattler for Mobile/PC where you build teams of fish with synergizing abilities to fight opponents from across the world in automatic rhythm-based combat.*
 
 <br>
 
-When my first year at Yrgo ended and the summer break begun, I was **offered work at Imperial Playgrounds** to start up a new, **smaller mobile game project**. I handled all the programming for the project alone during the summer, and when I went back to Yrgo afterwards, other programmers were assigned to continue on my work.
+When my first year at Yrgo ended and the summer break begun, I was **offered work at Imperial Playgrounds** to start up a new, **smaller mobile game project**. I handled all the programming for the project alone during the summer, and when I went back to Yrgo afterwards, other programmers were assigned to continue on my work where I left off, once the entire game framework had been set up.
 
 During the project I learned so much about Unity and C#, and I am incredibly satisfied with the work I left the team with. The experience of taking on another serious project and **designing future-proof systems** for the game that need to hold up **even long after I'm gone** has been super fun, not to mention valuable.
 
