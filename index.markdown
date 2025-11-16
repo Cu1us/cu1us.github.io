@@ -138,6 +138,22 @@ During the project I learned so much about Unity and C#, and I am incredibly sat
 </div>
 <div class="card">
   <div class="card__image">
+    <img class="image" src="/assets/images/misc/thoumustjest.png"/>
+  </div>
+  <div class="card__content">
+    <div class="card__header">
+      <h4><a href="https://kermitzefroggi.itch.io/thou-must-jest">Thou Must Jest</a></h4>
+    </div>
+    <p>An unsettling retro point-and-click game where you play as a jester who must explore the castle in pursuit of the perfect joke to tell the king. Winner of Best Art during GBG Spooky Game Jam 2025</p>
+    <p class="gameinfo left">
+    <b>Duration:</b> ~48 hours
+    <br>
+    <b>Team:</b> 2 programmers, 2 artists
+    </p>
+  </div>
+</div>
+<div class="card">
+  <div class="card__image">
     <img class="image" src="/assets/images/misc/rattitude.png"/>
   </div>
   <div class="card__content">
@@ -200,6 +216,7 @@ During the project I learned so much about Unity and C#, and I am incredibly sat
     </p>
   </div>
 </div>
+
 </div>
 
 <br>
