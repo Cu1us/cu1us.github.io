@@ -82,7 +82,7 @@ So I replaced the list of FishActions in each FishType with a list of a new cust
 
 Then, when the fish enters combat, it tells each of its ActionInstances to *instantiate* its FishAction, **apply the field overrides using reflection**, and return the new instantiated FishAction.
 
-Instantiating a ScriptableObject at runtime creates a temporary instance that can be accessed like any other. They should, however, be Destroy()ed once no longer needed (in this case is when combat is over).
+Instantiating a ScriptableObject at runtime creates a temporary instance that can be accessed like any other. They should, however, be Destroy():ed once no longer needed (in this case when combat is over).
 {:.warning}
 
 This way, in combat, each fish's FishActions are unique instances that **belong to that fish only**. All values on that FishAction can be edited freely without affecting any other fish, allowing them to store data between activations, *per-fish*, which is incredibly useful for more complicated actions.
