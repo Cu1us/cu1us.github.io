@@ -23,7 +23,7 @@ If you want to read about me, head to the [About me](/about/) page. If you want 
 {:.center}
 
 <br><br>
-# Campanion [<img src="/assets/images/logos/itch/itchio-logo-white.svg" class="gamelinkbuttonlogo">](https://yrgo-game-creator.itch.io/campanion){:target="_blank" title="Download Campanion on itch.io" .button.button--outline-error.button--pill.button--l.gamelinkbutton} [<img src="/assets/images/logos/youtube-logo.svg" class="gamelinkbuttonlogo">](https://youtu.be/YBdd-pXmyXg){:target="_blank" title="Trailer (YouTube)" .button.button--outline-error.button--pill.button--l.gamelinkbutton} [<img src="/assets/images/logos/finalist-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Finalist at The Rookie Awards 2025 Game of The Year (Console & PC)" .right.margin}[<img src="/assets/images/logos/draft-selection-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Draft Selection at The Rookie Awards 2025 Game of The Year (Console & PC)" .right.margin}
+# Campanion [<img src="/assets/images/logos/itch/itchio-logo-white.svg" class="gamelinkbuttonlogo">](https://yrgo-game-creator.itch.io/campanion){:target="_blank" title="Download Campanion on itch.io" .button.button--outline-error.button--pill.button--l.gamelinkbutton} [<img src="/assets/images/logos/youtube-logo.svg" class="gamelinkbuttonlogo">](https://youtu.be/YBdd-pXmyXg){:target="_blank" title="Trailer (YouTube)" .button.button--outline-error.button--pill.button--l.gamelinkbutton} [<img src="/assets/images/logos/sga_nom_design_blackbg.png" class="image image--xs">](https://www.swedishgameawards.se/nominees-2025){:title="Nominated for Best Design (New Talent) at the Swedish Game Awards 2025" .right.margin.sgaaward}[<img src="/assets/images/logos/finalist-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Finalist at The Rookie Awards 2025 Game of The Year (Console & PC)" .right.margin}[<img src="/assets/images/logos/draft-selection-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Draft Selection at The Rookie Awards 2025 Game of The Year (Console & PC)" .right.margin}
 <hr>
 [<img src="/assets/images/campanion/thumbnail.png" class="gamethumbnail">](/campanion)
 
@@ -40,12 +40,16 @@ If you want to read about me, head to the [About me](/about/) page. If you want 
 
 <br>
 *Campanion is an atmospheric first-person puzzle game where you, and your robotic pet camera Cammy, explore your missing grandpa’s mansion by utilizing a peculiar set of camera filters to reveal hidden details in the environment.*
+{:.textsidemargin}
 
 ***Thermal photos** reveal hot cables in the walls, the **UV filter** shows secret notes and fingerprints, the **X-ray mode** uncovers hidden mechanisms, and much more.*
+{:.textsidemargin}
 
 <br>
 
 This was an 8-week group project near the end of my first year at Yrgo, where I worked alongside another programmer and 3 artists to create a game in Unreal Engine. We also continued working on the project here and there during the summer to polish it before submitting it to Sweden Game Awards and The Rookies.
+
+*Campanion* was nominated for Finalist at The Rookie Game Awards 2025, and also for Best Design at the Sweden Game Awards 2025 gala.
 
 <br>
 [READ MORE](/campanion/){:.button.button--outline-success.button--rounded.button--xl}
@@ -77,6 +81,7 @@ This was an 8-week group project near the end of my first year at Yrgo, where I 
 
 <br>
 *Anchor's lament is an ocean-themed autobattler for Mobile/PC where you build teams of fish with synergizing abilities to fight opponents from across the world in automatic rhythm-based combat.*
+{:.textsidemargin}
 
 <br>
 

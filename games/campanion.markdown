@@ -16,7 +16,7 @@ permalink: /campanion/
 ---
 <link rel="stylesheet" href="/assets/css/index.css">
 
-[<img src="/assets/images/logos/draft-selection-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Draft Selection at The Rookie Awards 2025 Game of The Year (Console & PC)"} [<img src="/assets/images/logos/finalist-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Finalist at The Rookie Awards 2025 Game of The Year (Console & PC)"}
+[<img src="/assets/images/logos/draft-selection-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Draft Selection at The Rookie Awards 2025 Game of The Year (Console & PC)"} [<img src="/assets/images/logos/finalist-rookie-awards.webp" class="image image--xs">](https://www.therookies.co/entries/42422){:title="Finalist at The Rookie Awards 2025 Game of The Year (Console & PC)"} [<img src="/assets/images/logos/sga_nom_design_blackbg.png" class="image image--xs inpagesgaaward">](https://www.swedishgameawards.se/nominees-2025){:title="Nominated for Best Design (New Talent) at the Swedish Game Awards 2025"}
 {:.center}
 
 <p class="gameinfo">
