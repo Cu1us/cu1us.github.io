@@ -97,6 +97,38 @@ During the project I learned so much about Unity and C#, and I am incredibly sat
 <hr>
 <br>
 <br>
+
+# Cu1uSFX (Unity SFX Package)
+<hr>
+
+[<img src="/assets/images/misc/cu1usfx.png" class="gamethumbnail">](https://github.com/Cu1us/Cu1uSFX/)
+<p class="gameinfo">
+<b>Type:</b> Custom Unity Package
+<br>
+<b>Period:</b> August - November 2025
+</p>
+
+<br>
+Between August and November 2025, I intermittently spent my free time on this [side project](https://github.com/Cu1us/Cu1uSFX/) - originally an idea for my final 8-week examinatory solo project at Yrgo, but eventually something I could not resist prototyping and subsequently finishing (and releasing) way before the final project course even started.
+{:.textsidemargin}
+
+<br>
+
+I've always been frustrated at the need to create a new audio manager for every single new Unity project (*especially* during gamejams...), so it did not take long for the following thought to pop into my head:
+
+>"*Man, I wish Unity had some sort of global sound list, where you could just create a bunch of sound effects with various settings like random pitch, then play them from your code with some sort of easy syntax*"
+
+Naturally, as is the joy of being a programmer, I realized nothing is stopping me from creating such a thing myself. So I did, and countless hours of frustration later - I present to you, probably the best tool I've ever created:
+
+<br>
+
+[https://github.com/Cu1us/Cu1uSFX/](https://github.com/Cu1us/Cu1uSFX/){:.button.button--outline-success.button--rounded.button--l}
+{:.center}
+
+<br>
+<hr>
+<br>
+<br>
 <br>
 <br>
 
